@@ -1,0 +1,87 @@
+* { margin: 0%; padding: 0%; }
+.header { border-bottom: 1px solid rgb(42, 42, 124); }
+header { width: 98%; 
+    margin-left: 5%; 
+    overflow: hidden; 
+    padding: 20px 0px; }
+.logo { float: left; 
+    width: 25%; }
+.logo img { width: 35%; }
+nav { width: 40%; 
+    float: right; }
+nav ul { list-style: none; }
+nav ul li { float: left; 
+    margin-left: 38px; 
+    text-transform: capitalize; 
+    font-size: 30px; color: rgb(77, 70, 10); }
+.content-section { width: 60%; 
+    margin-left: 20%; 
+    text-align: center; }
+.content-section h1 { font-size: 50px;
+     text-transform: capitalize; color: rgb(22, 38, 87);
+      margin-top: 30px; }
+.content-section h2 { font-size: 50px;
+     text-transform: capitalize; color: rgb(13, 137, 251); 
+     margin: 15px 0px; }
+.content-section p { color: rgb(22, 38, 87); font-size: 16px; 
+    margin-top: 20px; }
+.content-section img {
+
+ }
+.success { width: 70%; margin: 100px auto;
+     overflow: hidden; }
+.success_left_content { float: left;
+     width: 48%; text-align: right; }
+.success_left_content p { color: rgb(22, 38, 87); 
+    font-size: 40px; }
+.success_left_content h1 { color: rgb(241, 105, 127);
+     font-size: 50px; }
+.success_right_content { width: 48%;
+     float: right; }
+.success_right_content h1 { font-size: 55px;
+     color: rgb(22, 38, 87); }
+.feature_section {width: 90%;margin: auto;
+    margin-bottom: 100px;overflow: hidden;}
+.feature_one { width: 25%; float: left; 
+    text-align: center; background: rgb(254, 235, 237);
+     padding: 50px 30px; }
+.feature_two { margin-left: 5%; width: 25%;
+     float: left; padding: 50px 30px;
+      background: rgb(254, 235, 237); }
+.feature_three { width: 25%; 
+    float: right; 
+    padding: 50px 30px;
+     background: rgb(254, 235, 237); }
+.feature_one img, .feature_two img, .feature_three img { width: 100%; }
+.feature_one h2, .feature_two h2, .feature_three h2 { text-align: left;
+     color: rgb(22, 38, 87);
+     margin: 15px 0px; }
+.feature_one p { text-align: left;
+     color: rgb(22, 38, 87); }
+
+     footer{
+
+background: #0082FD;
+
+text-align: center;
+
+padding: 47px 0;
+
+}
+     footer p{
+
+color: beige;
+
+font-size: 18px;
+
+}
+     footer p span{
+         
+color: #692d2b;
+         
+font-size: 20px;
+         
+font-weight: 700;
+         
+letter-spacing: 2px;
+     }
